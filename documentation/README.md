@@ -8,7 +8,7 @@ The project demonstrates how modern cloud systems are designed to achieve high a
 
 ### 📑 View Full Documentation
 
-[Open Project Documentation](./project-documentation.pdf)
+[Open Project Documentation](./AWS_AutoScaling_ALB_Presentation_v3.pdf)
 
 ---
 
