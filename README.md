@@ -36,7 +36,7 @@ Implemented a highly available architecture using:
 
 ## 🏗️ Architecture
 
-![Architecture](./architecture/architecture.png)
+![Architecture](./architecture/ARCH.png)
 
 ---
 
