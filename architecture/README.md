@@ -6,7 +6,7 @@ This diagram represents a highly available and self-healing AWS architecture usi
 
 ### 🖼️ Architecture Diagram
 
-![Architecture](./architecture.png)
+![Architecture](./ARCH.png)
 
 ---
 
